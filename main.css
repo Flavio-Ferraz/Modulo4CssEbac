@@ -113,3 +113,11 @@ section h2 {
 #tech .articles article a{
     background-color: rgb(102, 102, 102);
 }
+
+#gastronomy {
+    background-color: rgb(231, 146, 130);
+}
+
+#gastronomy .articles article a {
+    background-color: rgb(247, 84, 84);
+}
